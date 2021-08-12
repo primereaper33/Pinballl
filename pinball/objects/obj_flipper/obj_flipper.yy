@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_bumper",
-    "path": "sprites/spr_bumper/spr_bumper.yy",
+    "name": "spr_flipper",
+    "path": "sprites/spr_flipper/spr_flipper.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,10 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"parent":{"name":"obj_bumper","path":"objects/obj_bumper/obj_bumper.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_bumper","path":"objects/obj_bumper/obj_bumper.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_bumper",
+  "name": "obj_flipper",
   "tags": [],
   "resourceType": "GMObject",
 }
