@@ -9,7 +9,6 @@
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
     {"id":{"name":"spr_r2d2","path":"sprites/spr_r2d2/spr_r2d2.yy",},"order":2,},
     {"id":{"name":"snd_song1","path":"sounds/snd_song1/snd_song1.yy",},"order":0,},
-    {"id":{"name":"obj_leftflipper","path":"objects/obj_leftflipper/obj_leftflipper.yy",},"order":6,},
     {"id":{"name":"obj_rightflipper","path":"objects/obj_rightflipper/obj_rightflipper.yy",},"order":10,},
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":0,},
     {"id":{"name":"spr_bumper","path":"sprites/spr_bumper/spr_bumper.yy",},"order":4,},
@@ -22,8 +21,6 @@
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":2,},
     {"id":{"name":"spr_figures","path":"sprites/spr_figures/spr_figures.yy",},"order":6,},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":8,},
-    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":9,},
-    {"id":{"name":"room_game","path":"rooms/room_game/room_game.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -39,7 +36,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"room_game","path":"rooms/room_game/room_game.yy",},},
+    {"roomId":{"name":"","path":"",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "Folders": [
@@ -66,7 +63,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.560",
+    "IDEVersion": "2.3.1.542",
   },
   "resourceVersion": "1.4",
   "name": "pinball",
