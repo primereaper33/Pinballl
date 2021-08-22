@@ -15,8 +15,6 @@ if (phy_rotation <= max_angle)
 
 if (keyboard_check(ord(global.left_flipper_key)) == true)
 {
-    show_debug_message("press z");
-    show_debug_message(phy_rotation);
     if (phy_rotation > max_angle)
         {
         phy_fixed_rotation = false;
