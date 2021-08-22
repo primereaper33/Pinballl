@@ -8,6 +8,7 @@
     {"id":{"name":"spr_leftflipper","path":"sprites/spr_leftflipper/spr_leftflipper.yy",},"order":7,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
     {"id":{"name":"spr_r2d2","path":"sprites/spr_r2d2/spr_r2d2.yy",},"order":2,},
+    {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},"order":10,},
     {"id":{"name":"snd_song1","path":"sounds/snd_song1/snd_song1.yy",},"order":0,},
     {"id":{"name":"obj_leftflipper","path":"objects/obj_leftflipper/obj_leftflipper.yy",},"order":6,},
     {"id":{"name":"obj_rightflipper","path":"objects/obj_rightflipper/obj_rightflipper.yy",},"order":10,},
