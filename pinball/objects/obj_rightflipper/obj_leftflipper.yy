@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_rightflipper",
-    "path": "sprites/spr_rightflipper/spr_rightflipper.yy",
+    "name": "spr_leftflipper",
+    "path": "sprites/spr_leftflipper/spr_leftflipper.yy",
   },
   "solid": false,
   "visible": true,
@@ -12,7 +12,7 @@
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
-  "physicsDensity": 100.0,
+  "physicsDensity": 0.5,
   "physicsRestitution": 0.1,
   "physicsLinearDamping": 0.1,
   "physicsAngularDamping": 0.1,
@@ -36,7 +36,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_rightflipper",
+  "name": "obj_leftflipper",
   "tags": [],
   "resourceType": "GMObject",
 }
