@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite8",
-    "path": "sprites/Sprite8/Sprite8.yy",
+    "name": "spr_gate",
+    "path": "sprites/spr_gate/spr_gate.yy",
   },
   "solid": false,
   "visible": true,
