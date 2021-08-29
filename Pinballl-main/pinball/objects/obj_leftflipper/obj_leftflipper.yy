@@ -20,10 +20,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": true,
   "physicsShapePoints": [
-    {"x":25.0,"y":38.0,},
+    {"x":20.0,"y":38.0,},
     {"x":576.0,"y":38.0,},
-    {"x":576.0,"y":66.0,},
-    {"x":25.0,"y":66.0,},
+    {"x":576.0,"y":61.0,},
+    {"x":20.0,"y":61.0,},
   ],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_leftflipper","path":"objects/obj_leftflipper/obj_leftflipper.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
