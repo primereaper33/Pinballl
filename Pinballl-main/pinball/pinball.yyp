@@ -4,6 +4,7 @@
     {"id":{"name":"obj_titlescreen","path":"objects/obj_titlescreen/obj_titlescreen.yy",},"order":4,},
     {"id":{"name":"obj_bumper","path":"objects/obj_bumper/obj_bumper.yy",},"order":3,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
+    {"id":{"name":"spr_launcher","path":"sprites/spr_launcher/spr_launcher.yy",},"order":11,},
     {"id":{"name":"snd_song2","path":"sounds/snd_song2/snd_song2.yy",},"order":1,},
     {"id":{"name":"spr_leftflipper","path":"sprites/spr_leftflipper/spr_leftflipper.yy",},"order":7,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
