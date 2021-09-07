@@ -21,9 +21,9 @@
   "physicsKinematic": true,
   "physicsShapePoints": [
     {"x":0.0,"y":0.0,},
-    {"x":64.0,"y":0.0,},
-    {"x":64.0,"y":64.0,},
-    {"x":0.0,"y":64.0,},
+    {"x":250.0,"y":0.0,},
+    {"x":250.0,"y":65.0,},
+    {"x":0.0,"y":65.0,},
   ],
   "eventList": [
     {"isDnD":false,"eventNum":13,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_gate","path":"objects/obj_gate/obj_gate.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
