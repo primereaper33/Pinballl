@@ -7,7 +7,6 @@
     {"id":{"name":"spr_launcher","path":"sprites/spr_launcher/spr_launcher.yy",},"order":11,},
     {"id":{"name":"snd_song2","path":"sounds/snd_song2/snd_song2.yy",},"order":1,},
     {"id":{"name":"spr_leftflipper","path":"sprites/spr_leftflipper/spr_leftflipper.yy",},"order":7,},
-    {"id":{"name":"test1","path":"sprites/test1/test1.yy",},"order":12,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
     {"id":{"name":"obj_hud","path":"objects/obj_hud/obj_hud.yy",},"order":13,},
     {"id":{"name":"obj_gate","path":"objects/obj_gate/obj_gate.yy",},"order":12,},
