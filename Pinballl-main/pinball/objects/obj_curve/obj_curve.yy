@@ -20,14 +20,12 @@
   "physicsStartAwake": true,
   "physicsKinematic": true,
   "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":250.0,"y":0.0,},
-    {"x":250.0,"y":65.0,},
-    {"x":0.0,"y":65.0,},
+    {"x":1.0,"y":0.0,},
+    {"x":498.0,"y":0.0,},
+    {"x":498.0,"y":1.0,},
+    {"x":1.0,"y":1.0,},
   ],
-  "eventList": [
-    {"isDnD":false,"eventNum":13,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_gate","path":"objects/obj_gate/obj_gate.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -35,7 +33,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_gate",
+  "name": "obj_curve",
   "tags": [],
   "resourceType": "GMObject",
 }

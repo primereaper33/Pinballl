@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [
     {"x":415.0,"y":256.0,},
-    {"x":256.0,"y":256.0,},
+    {"x":145.0,"y":256.0,},
   ],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
