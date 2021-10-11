@@ -20,10 +20,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": true,
   "physicsShapePoints": [
-    {"x":110.59137,"y":541.542664,},
+    {"x":113.59137,"y":453.542664,},
     {"x":126.947296,"y":46.5935173,},
     {"x":184.065948,"y":47.915554,},
-    {"x":299.938232,"y":291.3203,},
+    {"x":294.938232,"y":287.3203,},
   ],
   "eventList": [],
   "properties": [],
@@ -33,7 +33,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_slingshot_right",
+  "name": "obj_slingshot",
   "tags": [],
   "resourceType": "GMObject",
 }

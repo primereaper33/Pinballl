@@ -26,7 +26,7 @@
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":0,},
     {"id":{"name":"spr_bumper","path":"sprites/spr_bumper/spr_bumper.yy",},"order":4,},
     {"id":{"name":"snd_song3","path":"sounds/snd_song3/snd_song3.yy",},"order":2,},
-    {"id":{"name":"obj_slingshot_right","path":"objects/obj_slingshot_right/obj_slingshot_right.yy",},"order":16,},
+    {"id":{"name":"obj_slingshot","path":"objects/obj_slingshot/obj_slingshot.yy",},"order":16,},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},"order":0,},
     {"id":{"name":"spr_titlebg","path":"sprites/spr_titlebg/spr_titlebg.yy",},"order":13,},
     {"id":{"name":"spr_rightflipper","path":"sprites/spr_rightflipper/spr_rightflipper.yy",},"order":9,},
