@@ -36,7 +36,7 @@
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":17,},
     {"id":{"name":"obj_launcher","path":"objects/obj_launcher/obj_launcher.yy",},"order":8,},
     {"id":{"name":"spr_figures","path":"sprites/spr_figures/spr_figures.yy",},"order":6,},
-    {"id":{"name":"spr_slingshot_right","path":"sprites/spr_slingshot_right/spr_slingshot_right.yy",},"order":16,},
+    {"id":{"name":"spr_slingshot","path":"sprites/spr_slingshot/spr_slingshot.yy",},"order":16,},
     {"id":{"name":"spr_gate","path":"sprites/spr_gate/spr_gate.yy",},"order":8,},
     {"id":{"name":"room_game","path":"rooms/room_game/room_game.yy",},"order":0,},
   ],

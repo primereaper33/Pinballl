@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_slingshot_right",
-    "path": "sprites/spr_slingshot_right/spr_slingshot_right.yy",
+    "name": "spr_slingshot",
+    "path": "sprites/spr_slingshot/spr_slingshot.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,7 +25,11 @@
     {"x":184.065948,"y":47.915554,},
     {"x":306.938232,"y":322.3203,},
   ],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_slingshot","path":"objects/obj_slingshot/obj_slingshot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_slingshot","path":"objects/obj_slingshot/obj_slingshot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"parent":{"name":"obj_slingshot","path":"objects/obj_slingshot/obj_slingshot.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
