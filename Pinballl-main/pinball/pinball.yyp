@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"snd_bumper","path":"sounds/snd_bumper/snd_bumper.yy",},"order":4,},
     {"id":{"name":"obj_joint1","path":"objects/obj_joint1/obj_joint1.yy",},"order":5,},
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":11,},
     {"id":{"name":"obj_titlescreen","path":"objects/obj_titlescreen/obj_titlescreen.yy",},"order":3,},
@@ -11,6 +12,7 @@
     {"id":{"name":"spr_coin","path":"sprites/spr_coin/spr_coin.yy",},"order":14,},
     {"id":{"name":"spr_leftflipper","path":"sprites/spr_leftflipper/spr_leftflipper.yy",},"order":7,},
     {"id":{"name":"obj_titlebg","path":"objects/obj_titlebg/obj_titlebg.yy",},"order":12,},
+    {"id":{"name":"snd_r2sfx1","path":"sounds/snd_r2sfx1/snd_r2sfx1.yy",},"order":6,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
     {"id":{"name":"obj_hud","path":"objects/obj_hud/obj_hud.yy",},"order":10,},
     {"id":{"name":"obj_curve","path":"objects/obj_curve/obj_curve.yy",},"order":9,},
@@ -24,6 +26,8 @@
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"order":12,},
     {"id":{"name":"obj_void","path":"objects/obj_void/obj_void.yy",},"order":19,},
     {"id":{"name":"obj_rightflipper","path":"objects/obj_rightflipper/obj_rightflipper.yy",},"order":7,},
+    {"id":{"name":"snd_launch","path":"sounds/snd_launch/snd_launch.yy",},"order":3,},
+    {"id":{"name":"snd_flipper","path":"sounds/snd_flipper/snd_flipper.yy",},"order":5,},
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":0,},
     {"id":{"name":"spr_bumper","path":"sprites/spr_bumper/spr_bumper.yy",},"order":4,},
     {"id":{"name":"snd_song3","path":"sounds/snd_song3/snd_song3.yy",},"order":2,},
