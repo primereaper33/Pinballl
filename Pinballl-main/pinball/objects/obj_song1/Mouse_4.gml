@@ -1,0 +1,1 @@
+global.song = 1
