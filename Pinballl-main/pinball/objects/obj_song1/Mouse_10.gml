@@ -1,1 +1,1 @@
-image_alpha = 0.5
+audio_play_sound(snd_song1,0,true)

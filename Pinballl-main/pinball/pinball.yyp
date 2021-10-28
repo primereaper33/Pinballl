@@ -45,7 +45,9 @@
     {"id":{"name":"spr_settingsbutton","path":"sprites/spr_settingsbutton/spr_settingsbutton.yy",},"order":22,},
     {"id":{"name":"spr_titlebg","path":"sprites/spr_titlebg/spr_titlebg.yy",},"order":13,},
     {"id":{"name":"spr_rightflipper","path":"sprites/spr_rightflipper/spr_rightflipper.yy",},"order":9,},
+    {"id":{"name":"obj_leaveroom","path":"objects/obj_leaveroom/obj_leaveroom.yy",},"order":26,},
     {"id":{"name":"obj_joint2","path":"objects/obj_joint2/obj_joint2.yy",},"order":6,},
+    {"id":{"name":"spr_leaveroom","path":"sprites/spr_leaveroom/spr_leaveroom.yy",},"order":23,},
     {"id":{"name":"obj_r2d2","path":"objects/obj_r2d2/obj_r2d2.yy",},"order":1,},
     {"id":{"name":"obj_preroom","path":"objects/obj_preroom/obj_preroom.yy",},"order":20,},
     {"id":{"name":"spr_musicbackground","path":"sprites/spr_musicbackground/spr_musicbackground.yy",},"order":18,},
@@ -74,10 +76,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"room_preroom","path":"rooms/room_preroom/room_preroom.yy",},},
     {"roomId":{"name":"room_title","path":"rooms/room_title/room_title.yy",},},
     {"roomId":{"name":"room_game","path":"rooms/room_game/room_game.yy",},},
     {"roomId":{"name":"room_music","path":"rooms/room_music/room_music.yy",},},
-    {"roomId":{"name":"room_preroom","path":"rooms/room_preroom/room_preroom.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
