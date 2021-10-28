@@ -20,13 +20,14 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [
-    {"x":415.0,"y":256.0,},
-    {"x":145.0,"y":256.0,},
+    {"x":26.0,"y":16.0,},
+    {"x":17.0,"y":16.0,},
   ],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_void","path":"objects/obj_void/obj_void.yy",},"parent":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
