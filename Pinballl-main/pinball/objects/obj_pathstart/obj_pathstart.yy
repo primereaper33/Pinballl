@@ -4,7 +4,7 @@
     "path": "sprites/spr_ball/spr_ball.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -21,7 +21,7 @@
   "physicsKinematic": true,
   "physicsShapePoints": [
     {"x":26.0,"y":26.0,},
-    {"x":18.0,"y":26.0,},
+    {"x":19.0,"y":26.0,},
   ],
   "eventList": [],
   "properties": [],
