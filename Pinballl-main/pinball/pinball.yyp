@@ -5,6 +5,7 @@
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":11,},
     {"id":{"name":"obj_titlescreen","path":"objects/obj_titlescreen/obj_titlescreen.yy",},"order":3,},
     {"id":{"name":"room_music","path":"rooms/room_music/room_music.yy",},"order":2,},
+    {"id":{"name":"spr_pathstart","path":"sprites/spr_pathstart/spr_pathstart.yy",},"order":26,},
     {"id":{"name":"obj_settingsbutton","path":"objects/obj_settingsbutton/obj_settingsbutton.yy",},"order":25,},
     {"id":{"name":"obj_falcon","path":"objects/obj_falcon/obj_falcon.yy",},"order":28,},
     {"id":{"name":"obj_bumper","path":"objects/obj_bumper/obj_bumper.yy",},"order":2,},

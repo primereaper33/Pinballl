@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_ball",
-    "path": "sprites/spr_ball/spr_ball.yy",
+    "name": "spr_pathstart",
+    "path": "sprites/spr_pathstart/spr_pathstart.yy",
   },
   "solid": false,
   "visible": false,
@@ -10,7 +10,7 @@
   "parentObjectId": null,
   "physicsObject": true,
   "physicsSensor": false,
-  "physicsShape": 0,
+  "physicsShape": 1,
   "physicsGroup": 1,
   "physicsDensity": 0.0,
   "physicsRestitution": 0.0,
@@ -20,10 +20,16 @@
   "physicsStartAwake": true,
   "physicsKinematic": true,
   "physicsShapePoints": [
-    {"x":26.0,"y":26.0,},
-    {"x":19.0,"y":26.0,},
+    {"x":0.0,"y":0.0,},
+    {"x":50.0,"y":0.0,},
+    {"x":50.0,"y":70.0,},
+    {"x":0.0,"y":70.0,},
   ],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_pathstart","path":"objects/obj_pathstart/obj_pathstart.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_pathstart","path":"objects/obj_pathstart/obj_pathstart.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"parent":{"name":"obj_pathstart","path":"objects/obj_pathstart/obj_pathstart.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
