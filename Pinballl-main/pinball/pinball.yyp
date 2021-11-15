@@ -108,12 +108,12 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_boot","path":"rooms/rm_boot/rm_boot.yy",},},
     {"roomId":{"name":"rm_scores","path":"rooms/rm_scores/rm_scores.yy",},},
     {"roomId":{"name":"room_preroom","path":"rooms/room_preroom/room_preroom.yy",},},
     {"roomId":{"name":"room_title","path":"rooms/room_title/room_title.yy",},},
     {"roomId":{"name":"room_game","path":"rooms/room_game/room_game.yy",},},
     {"roomId":{"name":"room_music","path":"rooms/room_music/room_music.yy",},},
-    {"roomId":{"name":"rm_boot","path":"rooms/rm_boot/rm_boot.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
