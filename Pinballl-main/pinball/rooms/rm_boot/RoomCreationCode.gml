@@ -6,4 +6,4 @@ for(i = 0; i < 10; i++)
 }
 ini_close();
 
-room_goto(rm_scores);
+room_goto(room_title);

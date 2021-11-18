@@ -10,5 +10,5 @@ if score > global.highscore
 }
 if lives <= 0
 {
-        game_restart(); 
+        room_goto(room_prescores);
 }
