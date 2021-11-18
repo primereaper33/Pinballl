@@ -8,4 +8,4 @@ instance_create_layer(x, y, "Instances", obj_fakeball);
 with obj_fakeball
 path_start(Path1, 5, path_action_stop, false);
 
-alarm[0] = 170;
+alarm[0] = 230;
