@@ -3,7 +3,7 @@ As seen on SlasherXGAMES
 https://www.youtube.com/user/SlasherXGAMES
 */
 
-max_width=1000 //maximum width
+max_width=600 //maximum width
 selected=true //is the player typing here?
 blink=false //show "|"?
 txt="" //what does it contain?
