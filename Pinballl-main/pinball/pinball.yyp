@@ -45,6 +45,7 @@
     {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},"order":13,},
     {"id":{"name":"spr_r2d2","path":"sprites/spr_r2d2/spr_r2d2.yy",},"order":2,},
     {"id":{"name":"spr_button_textbox","path":"sprites/spr_button_textbox/spr_button_textbox.yy",},"order":30,},
+    {"id":{"name":"obj_gate","path":"objects/obj_gate/obj_gate.yy",},"order":43,},
     {"id":{"name":"obj_song1","path":"objects/obj_song1/obj_song1.yy",},"order":21,},
     {"id":{"name":"spr_button_cancel","path":"sprites/spr_button_cancel/spr_button_cancel.yy",},"order":32,},
     {"id":{"name":"obj_button_accept","path":"objects/obj_button_accept/obj_button_accept.yy",},"order":37,},
@@ -56,6 +57,7 @@
     {"id":{"name":"obj_leftflipper","path":"objects/obj_leftflipper/obj_leftflipper.yy",},"order":4,},
     {"id":{"name":"obj_coinslot","path":"objects/obj_coinslot/obj_coinslot.yy",},"order":14,},
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"order":12,},
+    {"id":{"name":"spr_hole","path":"sprites/spr_hole/spr_hole.yy",},"order":37,},
     {"id":{"name":"obj_void","path":"objects/obj_void/obj_void.yy",},"order":19,},
     {"id":{"name":"obj_walloutline","path":"objects/obj_walloutline/obj_walloutline.yy",},"order":40,},
     {"id":{"name":"obj_rightflipper","path":"objects/obj_rightflipper/obj_rightflipper.yy",},"order":7,},
@@ -102,6 +104,7 @@
     {"id":{"name":"spr_figures","path":"sprites/spr_figures/spr_figures.yy",},"order":6,},
     {"id":{"name":"spr_slingshot","path":"sprites/spr_slingshot/spr_slingshot.yy",},"order":16,},
     {"id":{"name":"spr_gate","path":"sprites/spr_gate/spr_gate.yy",},"order":8,},
+    {"id":{"name":"obj_hole","path":"objects/obj_hole/obj_hole.yy",},"order":44,},
     {"id":{"name":"room_game","path":"rooms/room_game/room_game.yy",},"order":0,},
   ],
   "Options": [

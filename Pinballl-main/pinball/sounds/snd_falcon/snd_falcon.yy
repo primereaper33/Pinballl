@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_falcon.mp3",
-  "duration": 88.49573,
+  "duration": 1.18051,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
