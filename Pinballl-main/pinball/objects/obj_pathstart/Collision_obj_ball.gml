@@ -10,6 +10,8 @@ path_start(Path1, 5, path_action_stop, false);
 
 alarm[0] = 230;
 
+score+=2500;
+
 with (obj_falcon)
 image_speed = 1
 alarm[2]=50;

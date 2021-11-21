@@ -14,6 +14,8 @@ if global.lock = 3
 	instance_create_layer(49,855,"Instances",obj_ball);
 }
 
+score+=1000;
+
 with (obj_r2d2)
 image_speed = 1
 alarm[0]= 50;
