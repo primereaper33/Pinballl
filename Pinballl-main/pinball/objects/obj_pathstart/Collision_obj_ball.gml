@@ -1,6 +1,6 @@
 global.chute1=true;
-instance_destroy(obj_ball);
-with obj_ball
+instance_destroy(other);
+with (other)
 phy_active = false;
 
 instance_create_layer(x, y, "Instances", obj_fakeball);
